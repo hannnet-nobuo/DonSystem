@@ -4,17 +4,17 @@ public class GyouDon extends ADon {
 
 	@Override
 	String first() {
-		return "‹˜¥";
+		return "å‘³å™Œæ±";
 	}
 
 	@Override
 	String second() {
-		return "ƒTƒ‰ƒ_";
+		return "ç‰›ä¸¼";
 	}
 
 	@Override
 	String last() {
-		return "–¡‘X`";
+		return "ãŠèŒ¶";
 	}
 
 }

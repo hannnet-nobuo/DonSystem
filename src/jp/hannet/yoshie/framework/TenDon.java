@@ -4,17 +4,17 @@ public class TenDon extends ADon {
 
 	@Override
 	String first() {
-		return "“V˜¥";
+		return "ãŠèŒ¶";
 	}
 
 	@Override
 	String second() {
-		return "‚¨‚·‚Ü‚µ";
+		return "å¤©ä¸¼";
 	}
 
 	@Override
 	String last() {
-		return "‚¨‚¿‚á";
+		return "ãŠèŒ¶";
 	}
 
 }
